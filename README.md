@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathviksankaliya" alt="prathviksankaliya" /></a> </p>
 
-- 🔭 I’m currently working on [IT Craft Solution Intern](https://www.linkedin.com/company/itcraftsolution/)
+- 🔭 I’m currently Pursuing Masters's Degree at DHARMSINH DESAI UNIVERSITY
+University in Nadiad, Gujarat
 
 - 🌱 I’m currently learning **Data Structure Algorithm & Advance Android App Development**
 
